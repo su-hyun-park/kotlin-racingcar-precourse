@@ -1,4 +1,4 @@
-package org.example.racingcar
+package racingcar
 
 class InputView {
 

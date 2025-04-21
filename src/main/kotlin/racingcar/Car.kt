@@ -1,4 +1,4 @@
-package org.example.racingcar
+package racingcar
 
 import camp.nextstep.edu.missionutils.Randoms
 

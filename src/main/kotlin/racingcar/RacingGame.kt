@@ -1,4 +1,4 @@
-package racingcar
+package org.example.racingcar
 
 class RacingGame(
     private val cars: List<Car>,

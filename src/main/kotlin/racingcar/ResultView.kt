@@ -1,4 +1,4 @@
-package racingcar
+package org.example.racingcar
 
 class ResultView {
     fun printStartMessage() {

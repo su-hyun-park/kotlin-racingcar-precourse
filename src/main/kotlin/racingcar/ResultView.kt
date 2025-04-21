@@ -2,7 +2,7 @@ package org.example.racingcar
 
 class ResultView {
     fun printStartMessage() {
-        println("\n실행 결과")
+        println("\nRace Results")
     }
 
     fun printRoundResult(cars: List<Car>) {
@@ -14,7 +14,7 @@ class ResultView {
 
     fun printWinners(winners: List<Car>) {
         val winnerNames = winners.joinToString(", ") { it.name }
-        println("최종 우승자 : $winnerNames")
+        println("\nRace Results : $winnerNames")
     }
 }
 

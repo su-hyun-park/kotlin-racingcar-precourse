@@ -5,13 +5,13 @@ A simple command-line racing game where cars move based on random values. Users 
 
 ## Feature List
 
-- [ ] Accept car names as input (comma-separated, max 5 characters each)
-- [ ] Accept number of rounds as input
-- [ ] Validate inputs and throw IllegalArgumentException on failure
-- [ ] Move cars if random number (0–9) is 4 or greater
-- [ ] Display car position using hyphens after each round
-- [ ] Determine winner(s) based on max position
-- [ ] Support multiple winners when tied
+- [x] Accept car names as input (comma-separated, max 5 characters each)
+- [x] Accept number of rounds as input
+- [x] Validate inputs and throw IllegalArgumentException on failure
+- [x] Move cars if random number (0–9) is 4 or greater
+- [x] Display car position using hyphens after each round
+- [x] Determine winner(s) based on max position
+- [x] Support multiple winners when tied
 
 ## How to Run
 - Kotlin 1.9.24

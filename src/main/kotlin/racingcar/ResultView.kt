@@ -14,7 +14,7 @@ class ResultView {
 
     fun printWinners(winners: List<Car>) {
         val winnerNames = winners.joinToString(", ") { it.name }
-        println("\nRace Results : $winnerNames")
+        println("Winners : $winnerNames")
     }
 }
 

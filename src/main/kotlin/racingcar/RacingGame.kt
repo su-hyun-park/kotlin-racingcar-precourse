@@ -17,4 +17,3 @@ class RacingGame(
         return cars.filter { it.position == maxPosition }
     }
 }
-
